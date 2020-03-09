@@ -699,13 +699,9 @@ Java_com_nate_ndkdemo_Instance_localVariable(JNIEnv *env, jclass clazz, jint siz
 
 [如何定位Android NDK开发中遇到的错误](https://yuanfentiank789.github.io/2016/09/06/ndk_crash/)
 
- [你真的了解 NDK 和 jni 的区别吗
+ [你真的了解 NDK 和 jni 的区别吗](https://juejin.im/post/5989133ff265da3e2e56ff26)
 
-](https://juejin.im/post/5989133ff265da3e2e56ff26)
-
-[Android JNI/NDK 使用全解
-
-](https://juejin.im/post/5df774f7f265da33e97fceef)
+[Android JNI/NDK 使用全解](https://juejin.im/post/5df774f7f265da33e97fceef)
 
  [AndroidJNI优化](https://juejin.im/post/5d2bf60a51882566d05f4672#heading-5)
 
@@ -719,4 +715,4 @@ Java_com_nate_ndkdemo_Instance_localVariable(JNIEnv *env, jclass clazz, jint siz
 
  [Android NDK开发系列教程5：局部引用，全局引用，弱全局引用](https://www.dazhuanlan.com/2019/10/14/5da3f9861c80e/)
 
- [Android develop JNI教程]](https://developer.android.com/training/articles/perf-jni)
+ [Android develop JNI教程](https://developer.android.com/training/articles/perf-jni)
