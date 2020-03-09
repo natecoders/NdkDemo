@@ -693,4 +693,30 @@ Java_com_nate_ndkdemo_Instance_localVariable(JNIEnv *env, jclass clazz, jint siz
 
 # 参考资料
 
-[如何定位Android NDK开发中遇到的错误](
+[Android NDK开发-JNI]([https://xucanhui.com/2018/07/08/android-ndk-jni/#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AF%B9%E8%B1%A1%E5%8F%82%E6%95%B0%E7%9A%84%E4%BC%A0%E9%80%92](https://xucanhui.com/2018/07/08/android-ndk-jni/#自定义对象参数的传递))
+
+[Android JNI在C/C++中调用Java](https://www.javatt.com/p/9356)
+
+[如何定位Android NDK开发中遇到的错误](https://yuanfentiank789.github.io/2016/09/06/ndk_crash/)
+
+ [你真的了解 NDK 和 jni 的区别吗
+
+](https://juejin.im/post/5989133ff265da3e2e56ff26)
+
+[Android JNI/NDK 使用全解
+
+](https://juejin.im/post/5df774f7f265da33e97fceef)
+
+ [AndroidJNI优化](https://juejin.im/post/5d2bf60a51882566d05f4672#heading-5)
+
+ [Android NDK开发扫盲及最新CMake的编译使用](https://www.jianshu.com/p/6332418b12b1)
+
+ [NDK开发总结](https://ejin66.github.io/2018/01/08/android-ndk.html)
+
+[ndk-samples](https://github.com/android/ndk-samples/blob/master/webp/view/src/main/cpp/CMakeLists.txt)
+
+ [Android NDK初步](https://rustfisher.com/2016/06/14/Android/NDK-use_sample_2/)
+
+ [Android NDK开发系列教程5：局部引用，全局引用，弱全局引用](https://www.dazhuanlan.com/2019/10/14/5da3f9861c80e/)
+
+ [Android develop JNI教程]](https://developer.android.com/training/articles/perf-jni)
